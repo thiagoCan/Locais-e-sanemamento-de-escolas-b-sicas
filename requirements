@@ -1,4 +1,4 @@
 #Bibliotecas utilizadas
 pandas
-matplotlilb.pyplot
+matplotlib.pyplot
 numpy

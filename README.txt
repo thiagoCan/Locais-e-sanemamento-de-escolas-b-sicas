@@ -31,4 +31,4 @@ Origem dos Dados usados:
 
 Resultados obtidos (localização):
 
-	Os resultados obtidos está no arquivo LocalizaçãoEsolas_R_U.ipynb
+	Os resultados obtidos estão no arquivo LocalizaçãoEsolas_R_U.ipynb

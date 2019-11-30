@@ -1,0 +1,5 @@
+As bibliotecas utilizadas foram:
+
+pandas
+matplotlib.pyplot
+numpy

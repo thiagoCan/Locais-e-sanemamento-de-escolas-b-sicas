@@ -1,6 +1,8 @@
 1. Descrição breve (localização):
 
-	Este é um trabalho de raspagem de dados, em que foi contado e montado um gráfico de barras duplas de escolas rurais e urbanas ao longo de cinco anos, entre 1995 e 1999. A linguagem de programação utilizada foi o python. Os arquivos lidos estavam na extenção "csv".
+	Este é um trabalho de raspagem de dados, em que foi contado e montado um gráfico de barras duplas
+de escolas rurais e urbanas ao longo de cinco anos, entre 1995 e 1999. A linguagem de programação utilizada
+foi o python. Os arquivos lidos estavam na extenção "csv".
 	
 	1.1. Método utilizado:
 	#read_csv()
@@ -21,11 +23,14 @@
 
 	#squeeze
 
-		Este é um parâmetro booleano cujo padrão é False. Sendo False o jupyter notebook traz a tabela com a formatação do excel, mas não dá para trabalhar com os dados exibidos. Para se conseguir manipulá-los, deve-se alterar para squeeze=True.
+		Este é um parâmetro booleano cujo padrão é False. Sendo False o jupyter notebook
+	traz a tabela com a formatação do excel, mas não dá para trabalhar com os dados exibidos.
+	Para se conseguir manipulá-los, deve-se alterar para squeeze=True.
 
 Origem dos Dados usados:
 
-	Os dados foram coletados do site <http://inep.gov.br/microdados> na guia "Censo Escolar". Lembrando que foram pegos os anos de 1995 a 1999.
+	Os dados foram coletados do site <http://inep.gov.br/microdados> na guia "Censo Escolar".
+	Lembrando que foram pegos os anos de 1995 a 1999.
 
 
 
